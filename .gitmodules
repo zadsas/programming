@@ -1,0 +1,21 @@
+[submodule "scala-small-problems"]
+	path = scala-small-problems
+	url = https://github.com/zadsas/scala-small-problems.git
+[submodule "scala-99"]
+	path = scala-99
+	url = https://github.com/zadsas/scala-99.git
+[submodule "UVaOnlineJudge"]
+	path = UVaOnlineJudge
+	url = https://github.com/zadsas/UVaOnlineJudge.git
+[submodule "googlecodejam"]
+	path = googlecodejam
+	url = https://github.com/zadsas/googlecodejam.git
+[submodule "GoogleCodeJam2015"]
+	path = GoogleCodeJam2015
+	url = https://github.com/zadsas/GoogleCodeJam2015.git
+[submodule "topcoder"]
+	path = topcoder
+	url = https://github.com/zadsas/topcoder.git
+[submodule "java-code"]
+	path = java-code
+	url = https://github.com/zadsas/java-code.git
